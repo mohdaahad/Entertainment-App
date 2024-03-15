@@ -1,0 +1,33 @@
+@tailwind base;
+
+:root {
+  scroll-behavior: smooth;
+  --MyBackColor: 'transparent';
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: var(--MyBackColor);
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  background: #343434;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #faa916;
+}
+
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: 'Nunito', system-ui, sans-serif;
+  }
+}
