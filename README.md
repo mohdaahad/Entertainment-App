@@ -67,8 +67,6 @@ $ npm run dev
 
 ## 🛠️ Authors
 
-👩‍💻 Anastasiia Kuznetsova [@kuznetsova-anastasiia](https://github.com/kuznetsova-anastasiia)
+👩‍💻 Mohd Aahad [@mohdaahad](https://github.com/mohdaahad)
 
-👨‍💻 Kirill Vypirovskyi [@kirill-vypirovskyi](https://github.com/kirill-vypirovskyi)
 
-👨‍💻 Stanislav Korchevskyi [@stanislavcodes](https://github.com/stanislavcodes)
